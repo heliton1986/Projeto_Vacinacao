@@ -542,3 +542,6 @@ In [35]:
 # Ingestão para o SGBD
 relatorio.to_sql('vacinas', con=engine, index=False, if_exists='append')
 ```
+
+![1](https://user-images.githubusercontent.com/45739569/120121382-83b7da80-c179-11eb-89a8-822f736a6cfe.PNG)
+
