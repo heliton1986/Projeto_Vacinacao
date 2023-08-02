@@ -1,6 +1,6 @@
 
 
-# Projeto Vacinação
+# Projeto Vacinação Postman
 
 # Consumindo API de Vacinação de Covid-19 no Brasil
 
